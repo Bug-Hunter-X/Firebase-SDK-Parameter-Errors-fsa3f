@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the provided parameters are invalid or missing. For example, attempting to access a database reference with an incorrect path or calling a function with an unexpected argument type can result in unexpected behavior or errors.
